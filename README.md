@@ -1,5 +1,3 @@
 # Radio Frequency Fingerprint Identification Demonstration
 
-
-A venir ... 
-
+This repository presents the radio frequency fingerprint identification method for the 

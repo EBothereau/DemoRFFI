@@ -1,4 +1,4 @@
-**# Radio Frequency Fingerprint Identification Demonstration
+# Radio Frequency Fingerprint Identification Demonstration
 
 This repository presents the radio frequency fingerprint identification method for LoRa based on our work from : 
 
@@ -18,4 +18,3 @@ As well as the rogue device detection. It must be noted here that the devices 6-
 
 https://github.com/user-attachments/assets/f768b3d4-ed9a-4506-a522-c07c0ebbe781
 
-**

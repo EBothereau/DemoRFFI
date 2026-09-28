@@ -2,10 +2,7 @@
 
 This repository presents the radio frequency fingerprint identification method for LoRa based on our work from : 
 
-    \item (Accepted) E. Bothereau, R. Gerzaguet, M. Gautier and O. Berder, 
-    ``Phase-Based Feature Extraction for LoRa Radio Frequency Fingerprint Identification,'' 
-    \textit{IEEE International Workshop on Signal Processing Systems (SiPS)}, 2026.
-
+(Accepted) E. Bothereau, R. Gerzaguet, M. Gautier and O. Berder, ``Phase-Based Feature Extraction for LoRa Radio Frequency Fingerprint Identification,'' IEEE International Workshop on Signal Processing Systems (SiPS), 2026.
 
 
 The feature extraction training was done before hand. The enrollment was done on 30 signals per class for all 10 devices. 

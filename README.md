@@ -14,7 +14,7 @@ Then after enrollment, the following classification interface can be used:
 
 https://github.com/user-attachments/assets/3d803473-25db-492e-a902-cd64138a1f4d
 
-As well as the rogue device detection. It must be noted here that the devices 5-10 are marked as rogue devices. 
+As well as the rogue device detection. It must be noted here that the devices 6-10 are marked as rogue devices. 
 
 https://github.com/user-attachments/assets/f768b3d4-ed9a-4506-a522-c07c0ebbe781
 

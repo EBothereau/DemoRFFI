@@ -3,4 +3,10 @@
 This repository presents the radio frequency fingerprint identification method for the 
 
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://github.com/EBothereau/DemoRFFI/main/Classification_500.png))]([https://youtu.be/vt5fpE0bzSY](https://github.com/EBothereau/DemoRFFI/main/Classification.mp4))
+
+https://github.com/user-attachments/assets/3d803473-25db-492e-a902-cd64138a1f4d
+
+
+
+https://github.com/user-attachments/assets/f768b3d4-ed9a-4506-a522-c07c0ebbe781
+
